@@ -1,0 +1,16 @@
+[
+    {
+        "id": 1,
+        "mata_kuliah": "Pemrograman Dasar",
+        "waktu": "Senin, 08:00-10:00",
+        "ruangan": "A101",
+        "dosen": "Dr. Ahmad"
+    },
+    {
+        "id": 2,
+        "mata_kuliah": "Matematika Diskrit",
+        "waktu": "Rabu, 10:00-12:00",
+        "ruangan": "B202",
+        "dosen": "Prof. Budi"
+    }
+]
